@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ltpp.vip/docs-pages/sitemap.xml
+Sitemap: https://ltpp.vip/pages/sitemap.xml
